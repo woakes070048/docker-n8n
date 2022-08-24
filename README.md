@@ -9,7 +9,7 @@
 ## Setup
 
 ```
-git clone https://github.com/uetchy/docker-compose-n8n-letsencrypt n8n
+git clone https://github.com/woakes070048/docker-compose-n8n-letsencrypt n8n
 cd n8n
 cp .env.example .env
 # edit .env
